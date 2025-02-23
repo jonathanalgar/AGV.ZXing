@@ -1,8 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "nuget"
-    directory: "/AGV.ZXing"
-    schedule:
-      interval: "daily"
-    allow:
-      - dependency-name: "CustomCode.Analyzer"
